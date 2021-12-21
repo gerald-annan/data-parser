@@ -186,6 +186,10 @@ DateParser.match_day_month_name_date()
 
 ## Source
 
+### Solved by
+
+- @gerald-annan
+
 ### Created by
 
 - @neenjaw
